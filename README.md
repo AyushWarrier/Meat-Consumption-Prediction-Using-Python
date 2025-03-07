@@ -7,3 +7,4 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 - **Machine Learning Model Used**: Linear Regression  
 - **Dataset Source**: Kaggle  
 - **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
+
