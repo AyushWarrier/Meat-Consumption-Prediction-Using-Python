@@ -20,3 +20,10 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 ```sh
 git clone https://github.com/AyushWarrier/Meat-Consumption-Prediction-Using-Python.git
 cd Meat-Consumption-Prediction-Using-Python
+```
+
+### **2. Install Dependencies**
+Make sure you have Python 3.x installed, then run:
+```sh
+pip install pandas numpy matplotlib scikit-learn
+```
