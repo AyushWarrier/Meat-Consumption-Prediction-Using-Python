@@ -8,3 +8,15 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 - **Dataset Source**: Kaggle  
 - **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
 
+## Project Structure  
+- `Report/` 📄 – Contains the **final project report**  
+- `Code/` 🐍 – Python scripts for data preprocessing, model training, and prediction  
+- `Dataset/` 📊 – The dataset used for training the model  
+- `Visualizations/` 📈 – Graphs and charts showing results
+
+## Getting-Started
+
+### **1. Clone the Repository**
+```sh
+git clone https://github.com/AyushWarrier/Meat-Consumption-Prediction-Using-Python.git
+cd Meat-Consumption-Prediction-Using-Python```
