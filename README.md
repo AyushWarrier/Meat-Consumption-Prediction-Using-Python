@@ -8,11 +8,11 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 - **Dataset Source**: Kaggle  
 - **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
 
-## 🧱 Project Structure:  
-- `Report/` 📄 – Contains the **final project report**  
-- `Code/` 🐍 – Python scripts for data preprocessing, model training, and prediction  
-- `Dataset/` 📊 – The dataset used for training the model  
-- `Visualizations/` 📈 – Graphs and charts showing results
+## 🧱 Project Structure  
+- [`Report/`](./report.pdf) 📄 – Contains the **final project report**  
+- [`Code/`](./model.py) 🐍 – Python scripts for data preprocessing, model training, and prediction  
+- [`Dataset/`](./meat_consumption.csv) 📊 – The dataset used for training the model  
+- [`Visualizations/`](./visualization.pdf) 📈 – Graphs and charts showing results  
 
 ## 🏁 Getting-Started:
 
