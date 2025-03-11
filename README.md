@@ -27,3 +27,9 @@ Make sure you have Python 3.x installed, then run:
 ```sh
 pip install pandas numpy matplotlib scikit-learn
 ```
+
+### **3. Run the Code**
+```sh
+python model.py
+```
+This will train the model and generate **future predictions**.
