@@ -2,19 +2,19 @@
 
 *This project was created during my **4th semester of 2nd year** for the subject **Foundations of Data Warehousing and Data Mining**. It focuses on predicting **India’s future meat consumption** using **Linear Regression**.*
 
-## About the Project:  
+## 📋About the Project:  
 This project analyzes **historical meat consumption data (1961-2021)** and forecasts future trends (2022-2032).  
 - **Machine Learning Model Used**: Linear Regression  
 - **Dataset Source**: Kaggle  
 - **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
 
-## Project Structure:  
+## 🧱Project Structure:  
 - `Report/` 📄 – Contains the **final project report**  
 - `Code/` 🐍 – Python scripts for data preprocessing, model training, and prediction  
 - `Dataset/` 📊 – The dataset used for training the model  
 - `Visualizations/` 📈 – Graphs and charts showing results
 
-## Getting-Started:
+## 🏁Getting-Started:
 
 ### **1. Clone the Repository**
 ```sh
@@ -34,16 +34,16 @@ python model.py
 ```
 This will train the model and generate **future predictions**.
 
-## Results:
+## 📊Results:
 The model achieved:
 - R² Score: 0.9985
 - MAE: 0.55
 - RMSE: 0.75
 
-## Example Prediction Plot:
+## 📈Example Prediction Plot:
 
-## Contributing:
-If you find this project useful or want to improve it, feel free to fork the repo and submit a pull request.
+## 🤝Contributing:
+If you find this project useful or want to improve, feel free to fork the repo and submit a pull request.
 
-## License:
-This project is **open-source** and free-to-use.
+## 📜License:
+This project is **open-source** and free to use.
