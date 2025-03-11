@@ -39,3 +39,11 @@ The model achieved:
 - R² Score: 0.9985
 - MAE: 0.55
 - RMSE: 0.75
+
+## Example Prediction Plot:
+
+## Contributing:
+If you find this project useful or want to improve it, feel free to fork the repo and submit a pull request.
+
+## License:
+This project is **open-source** and free-to-use.
