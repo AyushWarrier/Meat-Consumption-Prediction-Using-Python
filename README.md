@@ -41,6 +41,7 @@ The model achieved:
 - RMSE: 0.75
 
 ## 📈 Example Prediction Plot:
+![Linear_Regression Model](./Images/Linear_Regression.png)
 
 ## 🤝 Contributing:
 If you find this project useful or want to improve, feel free to fork the repo and submit a pull request.
