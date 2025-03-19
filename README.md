@@ -47,4 +47,4 @@ The model achieved:
 If you find this project useful or want to improve, feel free to fork the repo and submit a pull request.
 
 ## 📜 License:
-This project is **open-source** and free to use.
+This project is *open-source* and free to use.
