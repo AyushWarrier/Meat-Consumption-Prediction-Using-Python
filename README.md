@@ -9,10 +9,10 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 - **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
 
 ## 🧱 Project Structure  
-- [`Report/`](./report.pdf) 📄 – Contains the **final project report**  
-- [`Code/`](./model.py) 🐍 – Python scripts for data preprocessing, model training, and prediction  
-- [`Dataset/`](./meat_consumption.csv) 📊 – The dataset used for training the model  
-- [`Images/`](./Images) 📈 – Graphs and charts showing results  
+- [`Report`](./report.pdf) 📄 – Contains the **final project report**  
+- [`Code`](./model.py) 🐍 – Python scripts for data preprocessing, model training, and prediction  
+- [`Dataset`](./meat_consumption.csv) 📊 – The dataset used for training the model  
+- [`Images`](./Images) 📈 – Graphs and charts showing results  
 
 ## 🏁 Getting-Started:
 
