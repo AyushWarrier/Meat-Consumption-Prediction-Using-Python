@@ -16,7 +16,7 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 
 ## 🏁 Getting-Started:
 
-### **1. Clone the Repository**
+### **1. Clone the Repository** 
 ```sh
 git clone https://github.com/AyushWarrier/Meat-Consumption-Prediction-Using-Python.git
 cd Meat-Consumption-Prediction-Using-Python(https://github.com/AyushWarrier/Meat-Consumption-Prediction-Using-Python.git)
