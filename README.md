@@ -44,7 +44,7 @@ The model achieved:
 ![Linear_Regression Model](./Images/Linear_Regression.png)  
 
 ## 🤝 Contributing:
-If you find this project useful or want to improve it, please fork the repo and submit a pull request.
+If you find this a helpful project or want to improve, please fork the repo and submit a pull request.
 
 ## 📜 License:
 This project is *open-source* and free to use.
