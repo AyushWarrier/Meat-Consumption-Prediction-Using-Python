@@ -39,9 +39,9 @@ The model achieved:
 - R² Score: 0.9985
 - MAE: 0.55
 - RMSE: 0.75
-
+ 
 ## 📈 Example Prediction Plot:
-![Linear_Regression Model](./Images/Linear_Regression.png)
+![Linear_Regression Model](./Images/Linear_Regression.png)  
 
 ## 🤝 Contributing:
 If you find this project useful or want to improve it, please fork the repo and submit a pull request.
