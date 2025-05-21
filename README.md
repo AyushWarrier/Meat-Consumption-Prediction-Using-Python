@@ -13,7 +13,7 @@ This project analyzes **historical meat consumption data (1961-2021)** and forec
 - [`Code`](./model.py) 🐍 – Python scripts for data preprocessing, model training, and prediction  
 - [`Dataset`](./meat_consumption.csv) 📊 – The dataset used for training the model  
 - [`Images`](./Images) 📈 – Graphs and charts showing results  
-
+ 
 ## 🏁 Getting-Started:
 
 ### **1. Clone the Repository** 
