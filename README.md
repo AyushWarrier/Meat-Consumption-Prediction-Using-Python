@@ -6,7 +6,7 @@
 This project analyzes **historical meat consumption data (1961-2021)** and forecasts future trends (2022-2032).  
 - **Machine Learning Model Used**: Linear Regression  
 - **Dataset Source**: Kaggle  
-- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
+- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Scikit-Learn   
 
 ## 🧱 Project Structure  
 - [`Report`](./report.pdf) 📄 – Contains the **final project report**  
